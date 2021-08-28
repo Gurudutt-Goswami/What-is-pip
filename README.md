@@ -33,7 +33,9 @@ pip list --outdated
 Python pip install –user –upgrade is used to update a package.
 ```
 pip install --user --upgrade package_name
-We can also upgrade any package to a specific version using the below command.
+```
+##### We can also upgrade any package to a specific version using the below command.
+```
 pip install --user --upgrade package_name==version
 ```
 ##### Downgrading packages with pip
